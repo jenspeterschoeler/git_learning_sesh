@@ -1,5 +1,6 @@
 git add *** (*** = -A for alt) (*** = filename for enkel fil)
 git commit -m 'besked (havd er opdateret)'
-git pull (henter andres ændringer ned)
-git push (origin master) (hvis første gang i projekt benyte -u) (-u er upstream )
+git pull (henter andres ï¿½ndringer ned)
+git push (origin master) (hvis fï¿½rste gang i projekt benyte -u) (-u er upstream )
 
+dsad
